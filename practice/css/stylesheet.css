@@ -1,34 +1,40 @@
+/* This are my amazing styles, don't dare to steal them */
 
-h2 {
-font-family: Verdana, sans-serif;
-color: #576D94;
+h1{}
+h2{
+    font-family:Verdana, sans-serif;
+    color: #576D94;
 }
-
 h3{
-color: purple;
 font-size: 17px;
+    color: purple;
 }
-
 h4{
-color: green;
-    font-size: 16px;
-}
-
+font-size: 16px;
+    color: green;}
 h5{
-color: magenta;
-    font-size: 15px;
+font-size: 14px;
+    color: magenta;
 }
-p {
-	color: #4A4943;
-    font-family: Garamond, serif;
-    size: 18px;
-    
+h6{}
+
+img{
+   border: 20px;
+   height: 100px;
+   width: 100px;
 }
 
-span {
-	color: blue;
+p{
+font-family: Garamond, serif;
+font-size: 18px; 
+/*    font-size: 59px; */
+color:#4a4943;
 }
-
 a {
-color: magenta;
+color: purple;
+    font-size: 50px;
+    font-family: comic-sans, sans-serif;
 }
+
+span {color:blue;
+font-size: 50px;}
